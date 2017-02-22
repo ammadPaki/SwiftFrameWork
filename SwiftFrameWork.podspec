@@ -8,11 +8,11 @@ Pod::Spec.new do |s|
 Happy Hour is iOS Objective C API with all the UI and implementation of Happy Hour Module.
                    DESC
 
-  s.homepage     = "http://git@github.com:ammadPaki/SwiftFrameWork.git"
+  s.homepage     = "https://github.com/ammadPaki/SwiftFrameWork"
   s.author             = { "Muhammad Ammad" => "ammad23@gmail.com" }
 
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "http://git@github.com:ammadPaki/SwiftFrameWork.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ammadPaki/SwiftFrameWork", :tag => "#{s.version}" }
   s.source_files = 'SwiftFrameWork/*'
 
 end
